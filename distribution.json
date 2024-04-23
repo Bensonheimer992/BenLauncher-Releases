@@ -14,7 +14,7 @@
             "icon": "https://xms.mlserv.xyz/upload/thumbnails/thumb_f19d92c1195f63c11b2f1ee0386826a6_50x50.png",
             "version": "1.0.0",
             "address": "play.bencraft.xyz:25565",
-            "minecraftVersion": "1.20.4",
+            "minecraftVersion": "1.20.5",
             "discord": {
                 "shortId": "Bencraft",
                 "largeImageText": "",
