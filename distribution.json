@@ -8,13 +8,13 @@
     },
     "servers": [
         {
-            "id": "BenClient-1.20.5",
-            "name": "BenClient (Minecraft 1.20.5)",
+            "id": "BenClient-1.20.4",
+            "name": "BenClient (Minecraft 1.20.4)",
             "description": "Modded Minecraft how Bensonheimer likes it (Fabric v0.15.6)",
             "icon": "https://xms.mlserv.xyz/upload/thumbnails/thumb_f19d92c1195f63c11b2f1ee0386826a6_50x50.png",
             "version": "1.0.0",
             "address": "play.bencraft.xyz:25565",
-            "minecraftVersion": "1.20.5",
+            "minecraftVersion": "1.20.4",
             "discord": {
                 "shortId": "Bencraft",
                 "largeImageText": "",
