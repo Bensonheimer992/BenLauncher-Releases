@@ -144,7 +144,7 @@
                     "type": "FabricMod",
                     "artifact": {
                         "size": 2160893,
-                        "url": "https://github.com/Bensonheimer992/BenLauncherFiles/raw/main/fabric-api-0.96.4+1.20.4.jar",
+                        "url": "https://github.com/Bensonheimer992/BenLauncher-Releases/raw/master/fabric-api-0.96.4+1.20.4.jar",
                         "MD5": "2ef9ba9b1cf087f4356ebe55366fb9ef"
                     }
                 },
@@ -154,7 +154,7 @@
                     "type": "FabricMod",
                     "artifact": {
                         "size": 4302513,
-                        "url": "https://github.com/Bensonheimer992/BenLauncherFiles/raw/main/benclient-1204-1.0.0.jar",
+                        "url": "https://github.com/Bensonheimer992/BenLauncher-Releases/raw/master/benclient-1204-1.0.0.jar",
                         "MD5": "7239e76edb4f0be96b64ca68f59b5614"
                     }
                 },
