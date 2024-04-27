@@ -6,13 +6,13 @@
 	<link type="text/html" rel="alternate" href="https://github.com/Bensonheimer992/BenLauncher-Releases/releases"/>
 	<link type="application/atom+xml" rel="self" href="https://github.com/Bensonheimer992/BenLauncher-Releases/releases.atom"/>
 	<title>Release notes from BenClient</title>
-	<updated>2024-02-22T17:50:18+01:00</updated>
+	<updated>2024-04-27T11:10:44+01:00</updated>
 	<entry>
 		<id>tag:github.com,2008:Repository/118847892/v2.2.2</id>
 		<updated>2024-04-27T11:01:44+01:00</updated>
 		<link rel="alternate" type="text/html" href="https://github.com/Bensonheimer992/BenLauncher-Releases/releases/tag/2.2.2"/>
 		<title>Release v2.2.2 - Node.js 20, Fixed Some things</title>
-		<content type="html">&lt;h2&gt;Release v2.2.0&lt;/h2&gt;</content>
+		<content type="html">&lt;h2&gt;Release v2.2.2&lt;/h2&gt;</content>
 		<author>
 			<name>Bensonheimer992</name>
 		</author>
